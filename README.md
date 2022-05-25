@@ -1,7 +1,6 @@
 # lottery-3d
 
 ## 在线链接
-[https://geeknull.github.io/lottery-3d/](https://geeknull.github.io/lottery-3d/)
 
 ## 项目介绍
 基于`moshang-xc`的例子主要进行了如下修改：
